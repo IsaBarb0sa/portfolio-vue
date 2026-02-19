@@ -3,7 +3,6 @@
 Meu portfólio pessoal desenvolvido com Vue.js e Vuetify, com foco em apresentar meus projetos, habilidades técnicas e formas de contato de forma moderna, responsiva e profissional.
 
 **Deploy:** https://portfolio-isabella-nine.vercel.app/
-**Repositório:** https://github.com/IsaBarb0sa/portfolio-vue
 
 ## Project Objective
 
